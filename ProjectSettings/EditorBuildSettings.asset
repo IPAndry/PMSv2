@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/CompanyLogo.unity
+    guid: ea61de7d85aafbc47b4cca92104bf4c6
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: a4fa1196475eb0a4c8c6fe095f283afa
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Gallery.unity
+    guid: 704d60a29b1410f48b697a65334ed3c5
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/Settings.unity
+    guid: 38bcab248b85ede42a93274d8fa2cde8
+  - enabled: 0
+    path: Assets/Scenes/PreIntro.unity
+    guid: 5d8b8f9c99267604fb2f9119b7b6ddae
+  - enabled: 0
+    path: Assets/Scenes/Intro.unity
+    guid: 0d8eecc50fb5dac47b79ba11d1914403
+  - enabled: 0
+    path: Assets/Scenes/PostIntro.unity
+    guid: 57727fb038e4e8144b6f1a8fb9d76f78
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Characters/Saber/Dates/SaberDate.unity
+    guid: 7ba24755597d3624c8579ef40c9fd232
+  - enabled: 1
+    path: Assets/Scenes/GameS/RunnerGame.unity
+    guid: 83c19819bd1776541926650d5c98a115
+  - enabled: 1
+    path: Assets/Scenes/Characters/Saber/Saber.unity
+    guid: 40c583012049beb44ae0c4bd8197b634
+  - enabled: 1
+    path: Assets/Scenes/Characters/Saber/SaberIntro.unity
+    guid: 2a892ab7413f1054cae9c32d71f41035
+  - enabled: 1
+    path: Assets/Scenes/Work/WorkIntro.unity
+    guid: 8c596b01fc86eba4fa5990bdf014d66d
+  - enabled: 0
+    path: Assets/Scenes/GameS/FirstGame.unity
+    guid: ea707e0d868926445828aeb0d198a594
+  - enabled: 1
+    path: Assets/Scenes/Work/Work.unity
+    guid: 50ca75817334fe946a7a1cfbaa17d5b0
+  - enabled: 0
+    path: Assets/Scenes/Characters/LisaLisa/LisaLisa.unity
+    guid: 9d2d153148526174383beca50c5030fc
+  - enabled: 0
+    path: Assets/Scenes/Characters/LisaLisa/LisaLisaFuck.unity
+    guid: 80b12fc3ddb496a42a6ad7bfa72beed3
+  - enabled: 0
+    path: Assets/Scenes/Characters/LisaLisa/LisaLisaIntro.unity
+    guid: 507862e054fb2ff4dafcf7dca4554ef9
+  - enabled: 0
+    path: Assets/Scenes/Characters/LisaLisa/LisaLisaWedding.unity
+    guid: b327e12cd735cc84bb88d46f76333dfb
+  m_configObjects: {}
